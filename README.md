@@ -11,8 +11,8 @@ This application is publicly hosted and can be accessed at:
 > Note: The site uses HTTP (not HTTPS), so your browser may show a security warning. This is expected for free hosting and the site is safe to use. You can proceed past the warning to use the full application.
 
 Default login credentials:
-- Username: `admin`
-- Password: `password123`
+- Username: `VidiUser`
+- Password: `WelcometoVidi`
 
 If you prefer to run it locally instead, follow the setup steps below.
 
