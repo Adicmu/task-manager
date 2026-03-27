@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+# Internal Files
+README_LOCAL.md
+demo_storyboard.md
