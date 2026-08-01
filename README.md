@@ -10,7 +10,7 @@ This application is publicly hosted and can be accessed at:
 
 > Note: The site uses HTTP (not HTTPS), so your browser may show a security warning. This is expected for free hosting and the site is safe to use. You can proceed past the warning to use the full application.
 
-Default login credentials:
+Demo login (shared throwaway account for reviewers, no real data behind it):
 - Username: `VidiUser`
 - Password: `WelcometoVidi`
 
